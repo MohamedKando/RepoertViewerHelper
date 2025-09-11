@@ -14,6 +14,7 @@
             runat="server"
             AutoDataBind="true"
             EnableParameterPrompt="true"
+            EnableDatabaseLogonPrompt="false"
             Width="100%" 
             Height="600px" />
     </form>
